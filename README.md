@@ -1,4 +1,5 @@
 Meu nome é Sophia
-- enho 13 anos
+- tenho 13 anos
 - Estou estudando coreano no Duolingo (profissional)
-- P
+- E eu estudo no Alura e Scratch
+  ![](https://media.tenor.com/QRPYeUaVLqkAAAAM/cinnamoroll-sanrio.gif)
